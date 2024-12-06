@@ -1,0 +1,10 @@
+[package]
+name = "find_tzm"
+version = "0.1.0"
+authors = ["emptyqwb <you@example.com>"]
+edition = "2021"
+description = "mem hack for find tzm code"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/emptyqwb/find_tzm.git"
+
+[dependencies]
